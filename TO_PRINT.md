@@ -19,7 +19,7 @@ Est Time: 1d 18h 28m
 
 - [x] `Y Axis Bearing Block x1_LDO.stl`, 5h 26m
 
-- [ ] `Y Axis Motor Mount x1_LDO.stl`, 8h 25m
+- [x] `Y Axis Motor Mount x1_LDO.stl`, 8h 25m
  
 Est Time: 15h 59m
 
