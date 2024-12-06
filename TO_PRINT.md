@@ -4,7 +4,7 @@
 
 - [x] `X Axis Bearing Block x1_LDO.stl`, 9h 4m
 
-- [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m
+- [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m, TODO Reprint to fix warping
 
 - [ ] `X Axis Table Support Centre x2_LDO.stl`, 6h 52m
 
@@ -26,11 +26,11 @@ Est Time: 15h 59m
 
 # Z Axis 
 
-- [ ] `Z Axis Anti Backlash Nut x1_LDO.stl`, 1hr 56m
+- [x] `Z Axis Anti Backlash Nut x1_LDO.stl`, 1hr 56m, TODO: reprint without Supports
 
-- [ ] `Z Motor Mount x1_LDO.stl`, 5h 41m 
+- [x] `Z Motor Mount x1_LDO.stl`, 5h 41m 
 
-- [ ] `[a] Z Axis Bearing Block x1_LDO.stl`,  3hr 16m
+- [x] `[a] Z Axis Bearing Block x1_LDO.stl`,  3hr 16m, TODO: Reprint in accent
 
 Est Time: 10h 53m 
 
