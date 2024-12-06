@@ -2,7 +2,7 @@
 
 - [ ] `X Axis Anti Backlash Nut x1_LDO.stl`, 5h 7m
 
-- [ ] `X Axis Bearing Block x1_LDO.stl`, 9h 4m
+- [x] `X Axis Bearing Block x1_LDO.stl`, 9h 4m
 
 - [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m
 
