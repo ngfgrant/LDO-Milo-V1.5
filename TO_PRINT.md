@@ -1,6 +1,6 @@
 # X Axis
 
-- [ ] `X Axis Anti Backlash Nut x1_LDO.stl`, 5h 7m
+- [x] `X Axis Anti Backlash Nut x1_LDO.stl`, 5h 7m
 
 - [x] `X Axis Bearing Block x1_LDO.stl`, 9h 4m
 
