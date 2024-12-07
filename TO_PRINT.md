@@ -4,7 +4,7 @@
 
 - [x] `X Axis Bearing Block x1_LDO.stl`, 9h 4m
 
-- [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m, TODO Reprint to fix warping
+- [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m
 
 - [ ] `X Axis Table Support Centre x2_LDO.stl`, 6h 52m
 
