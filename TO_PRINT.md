@@ -6,7 +6,7 @@
 
 - [x] `X Axis Motor Mount x1_LDO.stl`, 9h 21m
 
-- [ ] `X Axis Table Support Centre x2_LDO.stl`, 6h 52m
+- [x] `X Axis Table Support Centre x2_LDO.stl`, 6h 52m
 
 - [ ] `X Axis Table Support Ends x4_LDO.stl`, 12h 4m
 
