@@ -26,7 +26,7 @@ Est Time: 15h 59m
 
 # Z Axis 
 
-- [x] `Z Axis Anti Backlash Nut x1_LDO.stl`, 1hr 56m, TODO: reprint without Supports
+- [x] `Z Axis Anti Backlash Nut x1_LDO.stl`, 1hr 56m,
 
 - [x] `Z Motor Mount x1_LDO.stl`, 5h 41m 
 
