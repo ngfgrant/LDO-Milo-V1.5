@@ -8,7 +8,7 @@
 
 - [x] `X Axis Table Support Centre x2_LDO.stl`, 6h 52m
 
-- [ ] `X Axis Table Support Ends x4_LDO.stl`, 12h 4m
+- [x] `X Axis Table Support Ends x4_LDO.stl`, 12h 4m
 
 Est Time: 1d 18h 28m
 
