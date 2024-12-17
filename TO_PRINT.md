@@ -41,7 +41,7 @@ Est Time: 10h 53m
 
 - [ ] `Millenium Maker Coin.stl`, 16m
 
-- [ ] `Toolsetter x1_LDO.stl`, 1h 53m
+- [x] `Toolsetter x1_LDO.stl`, 1h 53m
 
 
 Est Time: 2h 43m TBC
